@@ -1,4 +1,5 @@
 ﻿using System.Data;
+using MichaelBrandonMorris.Repositories.Configuration;
 
 namespace MichaelBrandonMorris.Repositories
 {
