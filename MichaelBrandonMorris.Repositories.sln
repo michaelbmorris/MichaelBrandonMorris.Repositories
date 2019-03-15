@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MichaelBrandonMorris.Reposi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MichaelBrandonMorris.Repositories.Configuration", "MichaelBrandonMorris.Repositories.Configuration\MichaelBrandonMorris.Repositories.Configuration.csproj", "{71427551-7DDD-409B-9BDB-78F6F7958A6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MichaelBrandonMorris.Repositories.Entities", "MichaelBrandonMorris.Repositories.Entities\MichaelBrandonMorris.Repositories.Entities.csproj", "{17EA0166-AFF5-4D13-A108-3EC9783B6DBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{71427551-7DDD-409B-9BDB-78F6F7958A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71427551-7DDD-409B-9BDB-78F6F7958A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71427551-7DDD-409B-9BDB-78F6F7958A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17EA0166-AFF5-4D13-A108-3EC9783B6DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EA0166-AFF5-4D13-A108-3EC9783B6DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EA0166-AFF5-4D13-A108-3EC9783B6DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EA0166-AFF5-4D13-A108-3EC9783B6DBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

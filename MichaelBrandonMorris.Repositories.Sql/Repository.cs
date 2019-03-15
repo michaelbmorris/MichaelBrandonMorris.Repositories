@@ -1,5 +1,6 @@
 ﻿using System.Data;
 using System.Data.SqlClient;
+using MichaelBrandonMorris.Repositories.Configuration;
 
 namespace MichaelBrandonMorris.Repositories.Sql
 {
